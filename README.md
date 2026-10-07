@@ -7,7 +7,7 @@
 | N.º | Nombre completo | Usuario de GitHub |
 |-----|-----------------|-------------------|
 | 1 | Geovanny Zambrano | [gzambrano2898](https://github.com/gzambrano2898) |
-| 2 | Jhony Aguilar | [jaguilar4936](https://github.com/jaguilar4936) |
+| 2 |  Jhony Aguilar | [jaguilar4936](https://github.com/jaguilar4936)
 | 3 | Gustavo Bermeo    | @usuario3 |
 
 ## Información de la materia
